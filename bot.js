@@ -1,13 +1,13 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
- const prefix = "1";
+ const prefix = "2";
 client.on('ready', () => {
     console.log('I am ready!');
 });
 
 
 client.on('ready', () => {
-client.user.setGame(`1play-1music`,'https://www.twitch.tv/v5bz');
+client.user.setGame(`2play-2music`,'https://www.twitch.tv/v5bz');
 });
 
 
