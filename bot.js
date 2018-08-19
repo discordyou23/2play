@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 
 client.on('ready', () => {
-client.user.setGame(`MUSIC SYSTEM BOM BOT ♧`,'https://www.twitch.tv/v5bz');
+client.user.setGame(`MUSIC SYSTEM BOM BOT ♧`);
 });
 
 
