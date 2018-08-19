@@ -6,16 +6,10 @@ client.on('ready', () => {
 });
 
 
+
 client.on('ready', () => {
-client.user.setGame(`MUSIC SYSTEM BOM BOT ♧`);
+     client.user.setActivity("MUSIC SYSTEM BOM BOT ♧",{type: 'LISTENING'});
 });
-
-
-
-
-
-
-
 
 
 
