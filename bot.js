@@ -7,6 +7,7 @@ client.on('ready', () => {
 
 
 
+
 client.on('ready', () => {
      client.user.setActivity("MUSIC SYSTEM BOM BOT ♧",{type: 'LISTENING'});
 });
