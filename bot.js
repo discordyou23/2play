@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
- const prefix = "S";
+ const adminprefix = "S";
 client.on('ready', () => {
     console.log('I am ready!');
 });
